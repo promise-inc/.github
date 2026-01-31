@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./promise-fulfilled-logo.svg" alt="Promise Fulfilled Logo" width="180" />
+<img src="https://painel.promise.codes/favicon.svg" alt="Promise Fulfilled Logo" width="180" />
 
 # Promise Fulfilled Fullstack LTDA
 
