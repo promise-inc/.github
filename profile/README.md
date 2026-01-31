@@ -32,7 +32,7 @@ Trabalhamos com times enxutos e eficientes, priorizando qualidade de código, en
 
 ## Produtos Internos
 
-- **Promise Hub** — Plataforma de gestão de projetos com tracking de tempo via Claude Code, Kanban, time tracking e integrações com GitHub.
+- **Promise Hub** — Plataforma de gestão de projetos com tracking de tempo via Cursor, Kanban, time tracking e integrações com GitHub.
 
 ## Princípios
 
