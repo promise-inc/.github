@@ -15,7 +15,8 @@
 
 ## Sobre
 
-A **Promise Fulfilled** é uma software house fullstack especializada em criar produtos digitais de ponta a ponta — do backend à interface, do deploy ao monitoramento.
+A **Promise Fulfilled** é uma software house fullstack especializada em criar produtos digitais de ponta a ponta 
+do backend à interface, do deploy ao monitoramento.
 
 Trabalhamos com times enxutos e eficientes, priorizando qualidade de código, entregas consistentes e comunicação direta.
 
@@ -23,7 +24,7 @@ Trabalhamos com times enxutos e eficientes, priorizando qualidade de código, en
 
 | Camada | Tecnologias |
 |--------|-------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Frontend** | React, Vite, Next.js, TypeScript, Tailwind CSS |
 | **Backend** | NestJS, Node.js, PostgreSQL, Prisma |
 | **Infra** | Vercel, AWS, Docker, PM2 |
 | **Mobile** | React Native, Expo |
